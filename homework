@@ -1,0 +1,35 @@
+/* class Main {
+  public static void main(String[] args) {
+int x=5;
+int y=6;
+int z=7;
+System.out.println(x);
+System.out.println(y);
+System.out.println(z);
+}
+ } */
+
+/* class Main {
+  public static void main(String[] args) {
+Float y= 3.4F;
+int x= 7;
+System.out.println(x+"   "+y);
+}
+ } */
+
+/* class Main {
+  public static void main(String[] args) {
+char let1= 'n';
+char let2= 'o';
+char let3= 'a';  
+System.out.println (let1+""+let2+let3);
+}
+ }  */
+
+/* class Main {
+  public static void main(String[] args) {
+int x= 3;
+int z= 7;
+System.out.println(x+"<"+z);
+}
+  } */
